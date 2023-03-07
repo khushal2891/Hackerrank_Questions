@@ -1,0 +1,5 @@
+Khushal Sharma
+3 star in C++ on hackerrank
+
+This all codes are written by me and you can learn with this codes and try yourself to write .
+Don't copy paste this code on hackerrank directly , You will not learn anything by this.
